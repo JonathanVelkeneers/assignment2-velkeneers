@@ -6,7 +6,9 @@
 
 ---
 
-## Driving instructions from NWMSU to the closest beach
+## Going to the closest beach from NWMSU
+
+### Driving there
 
 1. Leave the university southbound to W 1st street taking either one of:
    - N Country club road
@@ -24,3 +26,12 @@
 5. Take a left on Ridge road
 6. Drive until you find a parking spot
 7. Park your car, you've reached Mozingo lake's beach
+
+### What to bring
+
+- Towel
+- Swimming gear
+- Drinks
+- Snacks
+- Sunscreen
+- (Umbrella)
