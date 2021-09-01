@@ -54,5 +54,18 @@
 | Belgian fries | Any restaurant, or specialty fries restaurant | 1-4 $ |
 | Water | Anywhere | 0-3 $ |
 
+---
+
+## Quotes
+
+> This is where the fun begins
+
+- _Anakin skywalker_
+
+> Hello there!
+
+- _Obi-Wan Kenobi_
+
+
 
 Check out my about me file [here](AboutMe.md)
